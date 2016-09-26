@@ -1,4 +1,4 @@
 CC=clang
  
 all:
-	$(CC) -o qr -lqrencode qr.c
+	$(CC) -o cliqr -lqrencode cliqr.c
